@@ -1,0 +1,2 @@
+cadenas de texto:
+Una Cadena de texto, no es más que una secuencia de caracteres; .NET las representa internamente en formato Unicode, y C# las representan externamente como objetos de un tipo de dato string, que no es más que un alias del tipo System.String de la BCL. 
